@@ -1,6 +1,10 @@
 ### To-do list
 
-### Weblog (soundrecordist.im)
+- [Weblog](#Weblog)
+- [Project Website](#Project Website)
+
+### Weblog
+(soundrecordist.im)
 
 - [x] Create a repository for the weblog files
 - [x] Add a description to the repository
@@ -12,7 +16,8 @@
 - [ ] Deploy a LAMP Stack on a SSD VPS
 - [ ] Deploy the weblog
 
-### Project Website (soundsurvey.im)
+### Project Website
+(soundsurvey.im)
 
 - [x] Create a repository for the project website files
 - [x] Add a description to the repository
