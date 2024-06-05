@@ -1,4 +1,4 @@
-### Weblog
+### Sound Recordist Weblog
 (soundrecordist.im)
 
 - [x] Create a repository for the weblog files
