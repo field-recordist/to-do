@@ -1,4 +1,4 @@
-### Project Website
+### Manx Sound Survey Website
 (soundsurvey.im)
 
 - [x] Create a repository for the project website files
