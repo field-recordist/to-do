@@ -1,8 +1,3 @@
-### To-do list
-
-- [Weblog](#Weblog)
-- [Project Website](#Project-Website)
-
 ### Weblog
 (soundrecordist.im)
 
